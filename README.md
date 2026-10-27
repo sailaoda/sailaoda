@@ -2,6 +2,9 @@
 
 -  联系我：wuyesai@gmail.com
 
+-  https://scholar.google.com/citations?user=FAbe3_sAAAAJ
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sailaoda/sailaoda/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sailaoda/sailaoda/output/github-contribution-grid-snake.svg">
